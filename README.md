@@ -1,4 +1,4 @@
-LZ4 - Extremely fast compression
+HusnaLZ4 - Extremely fast compression
 ================================
 
 LZ4 is lossless compression algorithm,
